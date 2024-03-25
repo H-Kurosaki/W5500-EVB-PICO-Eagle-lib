@@ -1,5 +1,8 @@
-# RPI-Pico-Eagle-lib
-Raspberry Pi Pico Eagle library
+# W5500-EVB-PICO-Eagle-lib
+Raspberry Pi Pico and W5500-EVB-PICO Eagle library
+
+forked from
+https://github.com/Lobo-T/RPI-Pico-Eagle-lib
 
 Based on Raspberrys KiCad footprint and the Mechanical Specification from the Pico datasheet.
 
