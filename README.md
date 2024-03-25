@@ -10,11 +10,13 @@ Based on Raspberrys KiCad footprint and the Mechanical Specification from the Pi
 
 Based on https://docs.wiznet.io/Product/iEthernet/W5500/w5500-evb-pico
 
+Files:
+
 RpiPico.lbr        Original version
 
 RpiPicoEVB.lbr     Slightly modified and added W5500-EVB-PICO
 
-  Changes
+Changes:
   
   W5500-EVB-PICO is added.
   
